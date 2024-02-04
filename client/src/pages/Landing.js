@@ -19,13 +19,10 @@ const Landing = () => {
           {/* info */}
           <div className='info'>
             <h1>
-              job <span>tracking</span> app
+              Welcome to <span>CourseMate</span> !
             </h1>
             <p>
-              I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-              bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-              quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-              narwhal.
+              the open-source hub for academic success! Access to the any online course notes, previous year questions papers, detailed notes, and more. Contribute and collaborate with a community passionate about learning. Join CourseMate today at CourseMate. Unlock knowledge, ace exams! #OpenSourceEdTech
             </p>
             <Link to='/register' className='btn btn-hero'>
               Login/Register
